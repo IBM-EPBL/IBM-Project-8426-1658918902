@@ -5,15 +5,15 @@
 
 ## Team Member:
 
-           PAVITHRA  (Team leader)
+         1)  PAVITHRA  (Team leader)
 
-           POOJA     (Team Member 1)
+         2)  POOJA     (Team Member 1)
 
-           Savitha   (Team Member 2)
+         3)  Savitha   (Team Member 2)
 
-           Sugashini (Team Member 3)
+         4)  Sugashini (Team Member 3)
 
-           Yuva Sree (Team Member 4)
+         5)  Yuva Sree (Team Member 4)
 
 
 # Project Discription:
