@@ -3,7 +3,7 @@
 
 Statistical Machine Learning Approaches to Liver Disease Prediction
 
-           #Team Member:
+# Team Member:
 
            PAVITHRA  (Team leader)
 
@@ -16,7 +16,7 @@ Statistical Machine Learning Approaches to Liver Disease Prediction
            Yuva Sree (Team Member 4)
 
 
-         # Project Discription:
+# Project Discription:
                           Statistical Machine Learning Approaches To Liver Disease Prediction
 Liver diseases avert the normal function of the liver. Mainly due to the large amount of alcohol consumption liver disease arises. Early prediction of liver disease using classification algorithms is an efficacious task that can help the doctors to diagnose the disease within a short duration of time. Discovering the existence of liver disease at an early stage is a complex task for the doctors. The main objective of this project is to analyze the parameters of various classification algorithms and compare their predictive accuracies so as to find out the best classifier for determining the liver disease.
 
