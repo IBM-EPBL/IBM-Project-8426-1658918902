@@ -1,7 +1,7 @@
 # IBM-Project-8426-1658918902
 # TEAM ID-PNT2022TMID38048
 
-https://gfycat.com/ashamedweightydachshund
+https://thumbs.gfycat.com/AshamedWeightyDachshund-mobile.mp4
 
 ### Statistical Machine Learning Approaches to Liver Disease Prediction
 
