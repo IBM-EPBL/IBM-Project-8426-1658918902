@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>HOME PAGE</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <section id="main">
+        
+        <nav>
+            <span class="menu-space"></span>
+            <h2>Liver Patient Analysis</h2>
+            <ul class="menu">
+                
+                <li><a href="#">home</a></li>
+                <li><a href="#">Goto Predict</a></li>
+            </ul>
+        </nav>
+    </section>
+    <div class="content">
+
+        <div class="main-text">
+            
+            <h3>Introduction</h3>
+            <p>Liver diseases averts the normal function of the Liver. Mainly due to the large amount of alcohol consumption liver disease
+            arises. Early prediction of Liver disease using classifcation  is an efficacious task that can help the doctors to diagnoise the disease
+            with in  a short period of time. Discovering the existence of Liver Disease at an early stage is a complex for the doctors. The main objective
+            of this paper is to analyse the parameters of various classification algorithms and compare with predictive accuracies so as to find out the best classifer
+            for determining the liver disease. This paper focuses on related works of various authours on liver disease such that algorithms were implemented
+            using weka tool that is a machine learning software written in Java. Various attributes that are essential in the prediction of liver disease 
+            where examined and the data set of liver patients also evaluated. This paper compares various classification algorithms such as random forest,
+            KNN,logistic regression and seperation algorithm with the aim to identify the best technique. Based on this study,KNN with the highest accuracy
+            outperformed the other algorithms and can be further utilised in the prediction of liver disease recommended.
+            |</p>
+        </div>
+    </div>
+</body>
+
+</html>
